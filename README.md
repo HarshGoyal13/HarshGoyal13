@@ -2,7 +2,7 @@
 
 <h1 align="center" style="color: #44AEFB;"> 👨🏻‍💻 Harsh Goyal </h1>
 
-![github_cover_banner](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif)
+
 
 <p align="center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
     I am a passionate and athletic full-stack software developer with a knack for learning new technologies. Apart from coding, I love weightlifting and running, which keep me physically and mentally sharp. 
@@ -65,15 +65,10 @@
 
 ---
 
+
+
 ## 📊 Statistics
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Asifdecoder&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20" alt="Asifdecoder's GitHub Stats" width="400px" />
-    <img src="https://streak-stats.demolab.com?user=Asifdecoder&count_private=true&theme=algolia&border_radius=20" alt="GitHub Streak" width="400px" />
-</div>
-<br>
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asifdecoder&layout=compact&show_icons=true&theme=algolia&border_radius=20" alt="Most Used Languages" width="400px" />
-</div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=HarshGoyal13&hide=stars&count_private=true&show_icons=true&theme=default&border_radius=20" alt="HarshGoyal13's GitHub Stats" width="400px" /> <img src="https://streak-stats.demolab.com?user=HarshGoyal13&count_private=true&theme=default&border_radius=20" alt="GitHub Streak" width="400px" /> </div> <br> <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshGoyal13&layout=compact&show_icons=true&theme=default&border_radius=20" alt="Most Used Languages" width="400px" /> </div>
 
 ---
 
