@@ -77,32 +77,11 @@
 
 ---
 
-## 🌟 Latest Projects
-- **[Project Name 1](link)**: Short description.
-- **[Project Name 2](link)**: Short description.
-- **[Project Name 3](link)**: Short description.
-
----
 
 ## 🌱 What I'm Currently Learning
-- Advanced React Patterns
-- Docker and Kubernetes
-- Next.js for SSR and SSG
+- Advanced Rust Patterns
+- Solana 
 
 ---
 
-## ✨ Hobbies and Interests
-- Coding ⚡
-- Weightlifting 💪
-- Running 🏃‍♂️
-- Reading 📖
 
----
-
-### **Why this works better**:
-1. **Professional Presentation**: Cleaner alignment and organization.
-2. **Interactive Buttons**: Added direct links to your portfolio and social handles.
-3. **Project Highlights**: Dedicated section to showcase your work.
-4. **Current Learning**: Shows you're proactive about growth.
-5. **More Personality**: Hobbies and interests add a human touch.
-6. **Responsive Elements**: Proper alignment for readability on all devices.
