@@ -1,6 +1,6 @@
 ![MasterHead](https://trisya.com/myimg/child/Website%20Design.gif)
 
-<h1 align="center" style="color: #44AEFB;"> 👨🏻‍💻 Asif Khan</h1>
+<h1 align="center" style="color: #44AEFB;"> 👨🏻‍💻 Harsh Goyal </h1>
 
 ![github_cover_banner](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif)
 
@@ -12,10 +12,10 @@
 
 <div align="center">
 
-[![Email Me](https://img.shields.io/badge/-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khanasif1654@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white)](your-portfolio-link-here)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile-link/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Asifdecoder)
+[![Email Me](https://img.shields.io/badge/-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshgoyal0219@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://harshtech.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/harsh-goyal-72104821b/))
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]((https://github.com/HarshGoyal13))
 </div>
 <br>
 
