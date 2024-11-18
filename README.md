@@ -14,8 +14,8 @@
 
 [![Email Me](https://img.shields.io/badge/-Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshgoyal0219@gmail.com)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://harshtech.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/harsh-goyal-72104821b/))
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]((https://github.com/HarshGoyal13))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-goyal-72104821b/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HarshGoyal13)
 </div>
 <br>
 
