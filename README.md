@@ -1,5 +1,5 @@
 ![Masterhead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-<h1 style="color: #44AEFB;"> 👨🏻‍💻 Asif khan</h1>
+<h1 style="color: #44AEFB;"> 👨🏻‍💻 Harsh Goyal</h1>
 
 ![github_cover_banner](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif)
 
@@ -9,7 +9,7 @@
 <br>
 <div align="center">
 
-[Email Me](mailto:khanasif1654@gmail.com)
+[Email Me](mailto:harshgoyal0219@gmail.com)
 </div>
 </p>    
 <br>
